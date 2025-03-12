@@ -1,4 +1,3 @@
-# ok 
 [![Python Version](https://img.shields.io/pypi/pyversions/cellfinder.svg)](https://pypi.org/project/cellfinder)
 [![PyPI](https://img.shields.io/pypi/v/cellfinder.svg)](https://pypi.org/project/cellfinder)
 [![Downloads](https://pepy.tech/badge/cellfinder)](https://pepy.tech/project/cellfinder)
